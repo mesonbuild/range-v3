@@ -1,0 +1,5 @@
+[wrap-file]
+directory = range-v3-0.3.6
+source_url = https://github.com/ericniebler/range-v3/archive/0.3.6.zip
+source_filename = range-v3-0.3.6.zip
+source_hash = 42cafd42fd51555844eb129018188f4cc7d9a60cbcc1fcb98496cd8942e5fadf
